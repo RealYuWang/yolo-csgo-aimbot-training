@@ -1,0 +1,8 @@
+train: mydata/images/train  # train images (relative to 'path') 128 images
+val: mydata/images/train  # val images (relative to 'path') 128 images
+test:  mydata/images/test
+
+# Classes
+nc: 5  # number of classes
+names: ['ct_body', 'ct_head', 't_body', 't_head', 'chicken']  # class names
+
