@@ -13,7 +13,9 @@
 
 和YOLO差不多，下载即用。如果你只用来检测，那你只需要更改检测文件路径。
 
-我自制的数据集已上传到Google Drive，稍后给出地址。
+我自制的数据集已上传到Google Drive https://drive.google.com/drive/folders/1fbdSknlxrZ5eLgTU7kvv6rPfihxQ-XF4?usp=sharing
+
+
 
 ## 3. 注意事项
 
